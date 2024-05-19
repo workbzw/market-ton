@@ -1,0 +1,14 @@
+{
+  "projects": [
+    {
+      "name": "jetton",
+      "path": "./sources/jetton.tact",
+      "output": "./sources/output"
+    },
+    {
+      "name": "receive_coins",
+      "path": "./sources/receive_coins.tact",
+      "output": "./sources/output"
+    }
+  ]
+}
